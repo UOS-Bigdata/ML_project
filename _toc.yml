@@ -24,5 +24,3 @@ sections:
     title: 시각화 영역
   - file: chapters/02/axis
     title: 축의 조정과 텍스트
-  - file: chapters/02/attribute
-    title: 그래픽 인자
